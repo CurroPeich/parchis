@@ -1,0 +1,2 @@
+# parchis
+juego de parchís
